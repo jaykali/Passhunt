@@ -11,7 +11,6 @@ import os, sys
 import urllib.request
 import io
 import bs4 as bs
-import ssl
 	
 def logo():
 	logo = '''
