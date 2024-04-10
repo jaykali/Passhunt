@@ -2,10 +2,11 @@
 #!/usr/bin/env python3
 '''
 This tool allows you to search for default credentials for routers, network devices, web applications and more. 
-Author: Viral Maniar 
-Twitter: https://twitter.com/maniarviral
-Github: https://github.com/Viralmaniar
-LinkedIn: https://au.linkedin.com/in/viralmaniar
+Original Author: Viral Maniar
+Updated by: JayKali
+Twitter: https://twitter.com/kali_tutorials
+Github: https://github.com/jaykali
+LinkedIn: https://linkedin.com/groups/9028463/
 '''
 import os, sys
 import urllib.request
@@ -21,8 +22,8 @@ def logo():
  |_|   \__,_|___/___/_| |_|\__,_|_| |_|\__|
 	 ***523 vendors, 2084 passwords***
  ░░░░  ███████ ]▄▄▄▄▄▄▄▄          
-█▄█████████████▄█          	      Author: Viral Maniar
-[████████████████████].   	      Twitter: @ManiarViral
+█▄█████████████▄█          	      OP Author: Viral Maniar
+[████████████████████].   	      Updated by: www.kalilinux.in
  ..◥ ▲ ▲ ▲ ▲ ▲ ▲ ◤..      	      Description: This tool is to search default credentials for routers, network devices, web applications and more. 
 								  
  '''
