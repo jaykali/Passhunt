@@ -16,7 +16,7 @@ Make sure you have installed the following:
 git clone https://github.com/Viralmaniar/Passhunt.git
 cd Passhunt
 pip3 install -r requirements.txt
-python3 Passhunt.py
+python3 passhunt.py
 </pre>
 
 # How do I use this?
